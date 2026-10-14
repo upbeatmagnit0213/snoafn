@@ -1,4 +1,5 @@
-# Hi, I'm Affan Mohtisham 👋
+![Affan Mohtisham](./affan-banner.png)
+# Hi, I'm Affan Mohtisham 👋 
 
 ### AI & Robotics Student | Developer | Builder
 
